@@ -1,3 +1,6 @@
+#Chall :
+Diberikan service nc 178.128.113.198 31337 dan chall.py.
+
 #Proof of Concept : 
 Pada fungsi encrypt setiap character dari flag menjalani operasi xor dengan S[(S[i] + S[j]) % 256]  kemudian hasilnya digunakan untuk membaca elemen dari list sbox pada nilai hasil tersebut dan di simpan pada list out. Terakhir fungsi mengembalikan string gabungan elemen dari list out.
 
