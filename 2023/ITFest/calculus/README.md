@@ -12,5 +12,5 @@ x^2-4(z-1)=(a+b)^2-4ab=a^2-2ab+b2=(a-b)^2
 sqrt(x^2 -4(z-1))=a-b
 sqrt(x^2 -4(z-1))+x=(a-b)+(a+b)=2a 
 [sqrt(x^2 -4(z-1))+x]/2=a, b=(z-1)/a
-diperoleh juga val=(encx+y)⊕(a3+b3).  Terakhir tinggal mengubah dari long number menjadi string.
+diperoleh juga val=(enc x+y)⊕(a^3+b^3).  Terakhir tinggal mengubah dari long number menjadi string.
 
